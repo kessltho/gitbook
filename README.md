@@ -1,2 +1,4 @@
-# Initial page
+# Initial Page
+
+lorem ipsum dolor
 
